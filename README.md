@@ -29,7 +29,7 @@ Acceptance Criteria-
 - OpenWeather API
 
 ### Screenshot
-<img src="./assets/images/06-server-side-apis-homework-demo.png"></>
+<img src="./assets/images/06-server-side-apis-homework-demo.png" />
 
 
 ### Deployed Application
