@@ -33,7 +33,7 @@ Acceptance Criteria-
 
 
 ### Deployed Application
-https://SuperDasMan.github.io/Weather-Master
+https://superdasman.github.io/Weather-Dashboard/
 
 ## Contribution
 Made with ❤️ by Josh West
