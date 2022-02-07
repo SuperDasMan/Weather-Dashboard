@@ -22,7 +22,7 @@ Acceptance Criteria-
 
 	-Quick-search city buttons
 
-### Technologies Used
+### Built with
 - HTML
 - CSS
 - JavaScript
@@ -34,3 +34,8 @@ Acceptance Criteria-
 
 ### Deployed Application
 https://SuperDasMan.github.io/Weather-Master
+
+## Contribution
+Made with ❤️ by Josh West
+
+### ©️2022 SuperDasMan Studios, LLC.
