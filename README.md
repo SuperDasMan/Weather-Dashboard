@@ -1,7 +1,9 @@
 ## Weather-Dashboard ##
+
 '' An app to track current and future weather conditions for multiple cities ''
 
 ### Description
+
 User Story-
 
 	-Weather outlook for multiple cities
@@ -23,12 +25,14 @@ Acceptance Criteria-
 	-Quick-search city buttons
 
 ### Built with
+
 - HTML
 - CSS
 - JavaScript
 - OpenWeather API
 
 ### Screenshot
+
 <img src="./assets/images/06-server-side-apis-homework-demo.png" />
 
 
@@ -36,6 +40,7 @@ Acceptance Criteria-
 https://superdasman.github.io/Weather-Dashboard/
 
 ## Contribution
+
 Made with ❤️ by Josh West
 
 ### ©️2022 SuperDasMan Studios, LLC.
